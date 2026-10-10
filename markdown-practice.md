@@ -12,6 +12,7 @@ I am learning **GitHub** on my *phone* and practicing an inline code like `git c
 - CSS
 - JavaScript
 </ul>
+
 **Steps to make a commit in Git:**
 <ol>
 <li>git add</li>
