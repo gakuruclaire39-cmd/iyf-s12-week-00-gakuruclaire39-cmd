@@ -20,7 +20,7 @@
 ```
 $ git config --global --list
 user.email=gakuruclaire39@gmail.com
-user.name=Claire
+user.name=gakuruclaire39-cmd
 filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.process=git-lfs filter-process
